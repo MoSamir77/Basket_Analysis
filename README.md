@@ -103,3 +103,6 @@ d. Department and Aisle Analysis:
 By addressing these requirements, the project aims to provide a deep understanding of customer 
 purchasing behavior, optimize product offerings, improve customer retention strategies, and 
 enhance predictive capabilities for future planning.
+
+# Data Dictionary
+![dict3](https://github.com/user-attachments/assets/71624fac-6561-4f12-ad44-a7d533e93416)
