@@ -81,6 +81,7 @@ d. Basket Analysis:
 
 ## 3. Business Questions and Analysis
 
+
 a. Popular Products:
  - Analyze sales distribution of top-selling products.
  - Identify top 5 products commonly added to the cart first.
